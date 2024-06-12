@@ -1,17 +1,5 @@
 # Nestor Soto
 
-### OBJECTIVE
-To obtain a challenging
-Software Engineer position
-where my
-problem-solving skills
-and experience
-in software development
-can be utilized to enhance
-user experiences
-and drive business
-objectives.
-
 ### ABOUT ME
 I’m Néstor Soto, I was born on Cd. Guzman Jalisco MX.
 I’m graduated from Universidad de Guadalajara as Networking and Informatics Engineer.
