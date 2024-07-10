@@ -9,6 +9,8 @@ I like play classic video games and Call Of Duty sometimes. I like Sci-Fi stuff 
 - nestor_1316@hotmail.com
 - https://github.com/nesb90
 - https://www.linkedin.com/in/nesb90/
+
+### Location
 - Guadalajara, Mexico.
 
 ### EDUCATION
