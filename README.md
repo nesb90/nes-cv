@@ -1,7 +1,7 @@
 # Nestor Soto
 
 ### ABOUT ME
-I’m Néstor Soto, I was born on Cd. Guzman Jalisco MX.
+I’m Néstor Soto, I was born in Cd. Guzman Jalisco MX.
 I’m graduated from Universidad de Guadalajara as Networking and Informatics Engineer.
 I like play classic video games and Call Of Duty sometimes. I like Sci-Fi stuff 👽 and sometimes workout 🏃
 
